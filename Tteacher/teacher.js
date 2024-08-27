@@ -42,7 +42,7 @@ function link( )
         } 
 		 function link76( )
 		{
-            alert('葉怡秀')
+            alert('姚宗汶')
         } 
 		 function link75( )
 		{
