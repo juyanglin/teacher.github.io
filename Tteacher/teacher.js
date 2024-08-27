@@ -108,7 +108,7 @@ function link( )
         } 
 		 function link100( )
 		{
-            alert('何月娥,李佩瑾,')
+            alert('洪芳如,李佩瑾,')
         } 
         function link82( )
 		{
@@ -116,7 +116,7 @@ function link( )
         }
         function link81( )
 		{
-            alert('陳冠伶')
+            alert('鄒佳芝')
         }
         function link80( )
 		{
