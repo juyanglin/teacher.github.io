@@ -62,31 +62,31 @@ function link( )
         } 
 		 function link23( )
 		{
-            alert('陳舜明')
+            alert('涂大節')
         } 
 		 function link31( )
 		{
-            alert('簡郁雅')
+            alert('陳靜卿')
         } 
 		 function link33( )
 		{
-            alert('郭雅萍')
+            alert('簡郁雅')
         } 
 		  function link41( )
 		{
-            alert('涂大節')
+            alert('鄭雅尹')
         } 
 		 function link43( )
 		{
-            alert('吳美潔')
+            alert('葉建宏')
         } 
 		 function link51( )
 		{
-            alert('蔡旻家')
+            alert('陳舜明')
         } 
 		 function link52( )
 		{
-            alert('邱渝婷')
+            alert('郭雅萍')
         } 
 		
 		 function link61( )
@@ -95,11 +95,11 @@ function link( )
         } 
 		 function link62( )
 		{
-            alert('葉建宏')
+            alert('吳美潔')
         } 
 		 function link63( )
 		{
-            alert('')
+            alert('吳美潔')
         } 
 		
         function link34( )
