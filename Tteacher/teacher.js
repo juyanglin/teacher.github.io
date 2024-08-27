@@ -1,6 +1,6 @@
 function link( )
 		{
-            alert('許瑞陽')
+            alert('張美志')
         } 
 		function link1( )
 		{
