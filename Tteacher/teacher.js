@@ -50,15 +50,15 @@ function link( )
         } 
 		 function link11( )
 		{
-            alert('林淑妙')
+            alert('張麗美')
         } 
 		 function link13( )
 		{
-            alert('陳靜卿')
+            alert('葉怡琇')
         } 
          function link21( )
 		{
-            alert('張麗美')
+            alert('林淑妙')
         } 
 		 function link23( )
 		{
